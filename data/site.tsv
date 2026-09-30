@@ -1,0 +1,22 @@
+#key	value
+name	Ganesh's Home
+byline	Mental Health Volunteer | PWLE
+year	1960
+
+|labels and messages
+iconName	Ganesh N Rajan
+siteMenuName	Gunnchu's Home
+description	A DAWN Site of the Author at beingherenow.in and MH Volunteer
+notes	Plan is to leverage Spring to publish more of the books, insights and use Imran's skills to kindle the Health 4 movement.
+welcome-message	This is a DAWN Site
+footer-message	DAWN
+
+|img and styles
+safeName	dawn-ganesh	//NOTE: used in getLogoOr
+mediakit	?palette=default
+|fonts	cursive=Eagle+Lake&menu=Quintessential&menu-size=1.3rem
+
+|technical
+sections	whois
+local-url	http://localhost/amadeusweb/people/ganesh/
+live-url	https://ganesh.amadeusweb.in/
